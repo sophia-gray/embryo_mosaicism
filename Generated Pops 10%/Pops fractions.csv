@@ -1,0 +1,6 @@
+﻿PopulationID,PopulationName,num_euploid,num_aneuploid_100,num_aneuploid_90,num_aneuploid_80,num_aneuploid_70,num_aneuploid_60,num_aneuploid_50,num_aneuploid_40,num_aneuploid_30,num_aneuploid_20,num_aneuploid_10
+1,Population 1,6396.00,4088.00,0.00,462.00,0.00,0.00,0.00,0.00,914.00,0.00,0.00
+2,Population 2,3198.00,4088.00,0.00,462.00,0.00,0.00,0.00,0.00,914.00,0.00,3198.00
+3,Population 3,4264.00,4088.00,0.00,462.00,0.00,0.00,0.00,0.00,914.00,0.00,2132.00
+4,Population 4,4797.00,4088.00,0.00,462.00,0.00,0.00,0.00,0.00,914.00,0.00,1599.00
+5,Population 5,5330.00,4088.00,0.00,462.00,0.00,0.00,0.00,0.00,914.00,0.00,1066.00

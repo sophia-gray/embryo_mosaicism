@@ -1,0 +1,16 @@
+PopulationID,Population_name,prop_euploid,prop_aneuploid_100,prop_aneuploid_90,prop_aneuploid_80,prop_aneuploid_70,prop_aneuploid_60,prop_aneuploid_50,prop_aneuploid_40,prop_aneuploid_30,prop_aneuploid_20,prop_aneuploid_10
+1,Population 1,1,0,0,0,0,0,0,0,0,0,0
+2,Population 2,0,1,0,0,0,0,0,0,0,0,0
+3,Population 3,0.5,0.5,0,0,0,0,0,0,0,0,0
+4,Population 4,0.25,0.25,0,0.25,0,0,0,0,0.25,0,0
+5,Population 5,0,0,0,0,0,0,1,0,0,0,0
+6,Population 6,0,0,0,0,0,0,0,1,0,0,0
+7,Population 7,0,0,0,0,0,0,0,0,1,0,0
+8,Population 8,0,0,1,0,0,0,0,0,0,0,0
+9,Population 9,0,0,0,1,0,0,0,0,0,0,0
+10,Population 10,0,0,0,0,1,0,0,0,0,0,0
+11,Population 11,0.1,0.3,0,0,0,0.1,0,0,0.5,0,0
+12,Population 12,0.2,0.3,0,0,0,0.1,0,0,0.4,0,0
+13,Population 13,0.3,0.3,0,0,0,0.1,0,0,0.3,0,0
+14,Population 14,0.4,0.3,0,0,0,0.1,0,0,0.2,0,0
+15,Population 15,0.5,0.3,0,0,0,0.1,0,0,0.1,0,0

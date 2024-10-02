@@ -1,0 +1,21 @@
+PopulationID,PopulationName,num_euploid,num_aneuploid_100,num_aneuploid_90,num_aneuploid_80,num_aneuploid_70,num_aneuploid_60,num_aneuploid_50,num_aneuploid_40,num_aneuploid_30,num_aneuploid_20,num_aneuploid_10
+1,Population 1,0,4088,0,462,0,0,0,0,914,0,6396
+2,Population 2,0,4088,0,462,0,0,0,0,902,0,6408
+3,Population 3,0,4088,0,462,0,0,0,0,891,0,6419
+4,Population 4,0,4088,0,462,0,0,0,0,879,0,6431
+5,Population 5,0,4088,0,462,0,0,0,0,868,0,6442
+6,Population 6,0,4088,0,462,0,0,0,0,856,0,6454
+7,Population 7,0,4088,0,462,0,0,0,0,845,0,6465
+8,Population 8,0,4088,0,462,0,0,0,0,833,0,6477
+9,Population 9,0,4088,0,462,0,0,0,0,822,0,6488
+10,Population 10,0,4088,0,462,0,0,0,0,810,0,6500
+11,Population 11,0,4088,0,462,0,0,0,0,799,0,6511
+12,Population 12,0,4088,0,462,0,0,0,0,787,0,6523
+13,Population 13,0,4088,0,462,0,0,0,0,776,0,6534
+14,Population 14,0,4088,0,462,0,0,0,0,764,0,6546
+15,Population 15,0,4088,0,462,0,0,0,0,753,0,6557
+16,Population 16,0,4088,0,462,0,0,0,0,741,0,6569
+17,Population 17,0,4088,0,462,0,0,0,0,730,0,6580
+18,Population 18,0,4088,0,462,0,0,0,0,718,0,6592
+19,Population 19,0,4088,0,462,0,0,0,0,707,0,6603
+20,Population 20,0,4088,0,462,0,0,0,0,695,0,6615
